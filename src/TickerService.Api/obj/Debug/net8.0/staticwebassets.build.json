@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "NSHHvQrBQX/Q9JoPmDlj2JrmWjDKeyjEoJd+4hbVvEE=",
+  "Hash": "Mh0J3SuRH705vFIU1aaAShhAdousRLM8mAXpkrdUudQ=",
   "Source": "TickerService.Api",
   "BasePath": "_content/TickerService.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

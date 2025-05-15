@@ -16,7 +16,10 @@
       },
       "TickerService.Persistence.Interfaces/1.0.0": {
         "runtime": {
-          "TickerService.Persistence.Interfaces.dll": {}
+          "TickerService.Persistence.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

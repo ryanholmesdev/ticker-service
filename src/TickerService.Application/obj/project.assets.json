@@ -1,39 +1,60 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {
+      "TickerService.Api.Clients/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TickerService.Api.Clients.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TickerService.Api.Clients.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TickerService.Api.Clients/1.0.0": {
+      "type": "project",
+      "path": "../TickerService.Api.Clients/TickerService.Api.Clients.csproj",
+      "msbuildProject": "../TickerService.Api.Clients/TickerService.Api.Clients.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": [
+      "TickerService.Api.Clients >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\ryanh\\.nuget\\packages\\": {}
+    "/Users/ryanholmes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Application\\TickerService.Application.csproj",
+      "projectUniqueName": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Application/TickerService.Application.csproj",
       "projectName": "TickerService.Application",
-      "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Application\\TickerService.Application.csproj",
-      "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Application\\obj\\",
+      "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Application/TickerService.Application.csproj",
+      "packagesPath": "/Users/ryanholmes/.nuget/packages/",
+      "outputPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ryanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ryanholmes/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "projectReferences": {}
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj": {
+              "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -45,11 +66,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/ryanholmes/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

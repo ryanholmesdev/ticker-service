@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8H6UKbubra31CX7M6yS+mBgUhc5dQhEfhM+TP7LHQHPT/ib3sNljIS+sC3pHQ1wgpISs3LEzmgUnWRwbgvQpLg==",
+  "dgSpecHash": "d9vMYzMQcpk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj",
+  "projectFilePath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

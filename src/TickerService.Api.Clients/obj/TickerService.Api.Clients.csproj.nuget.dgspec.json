@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Api.Clients\\TickerService.Api.Clients.csproj": {}
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Api.Clients\\TickerService.Api.Clients.csproj": {
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Api.Clients\\TickerService.Api.Clients.csproj",
+        "projectUniqueName": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj",
         "projectName": "TickerService.Api.Clients",
-        "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Api.Clients\\TickerService.Api.Clients.csproj",
-        "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Api.Clients\\obj\\",
+        "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/TickerService.Api.Clients.csproj",
+        "packagesPath": "/Users/ryanholmes/.nuget/packages/",
+        "outputPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Api.Clients/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ryanholmes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ryanholmes/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

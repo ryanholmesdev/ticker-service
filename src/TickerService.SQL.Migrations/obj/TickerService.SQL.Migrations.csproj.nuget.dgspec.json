@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.SQL.Migrations\\TickerService.SQL.Migrations.csproj": {}
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.SQL.Migrations/TickerService.SQL.Migrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\TickerService.Persistence.Interfaces.csproj": {
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/TickerService.Persistence.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\TickerService.Persistence.Interfaces.csproj",
+        "projectUniqueName": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/TickerService.Persistence.Interfaces.csproj",
         "projectName": "TickerService.Persistence.Interfaces",
-        "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\TickerService.Persistence.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\obj\\",
+        "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/TickerService.Persistence.Interfaces.csproj",
+        "packagesPath": "/Users/ryanholmes/.nuget/packages/",
+        "outputPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ryanholmes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -60,36 +59,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ryanholmes/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj": {
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj",
+        "projectUniqueName": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj",
         "projectName": "TickerService.Persistence",
-        "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj",
-        "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\obj\\",
+        "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj",
+        "packagesPath": "/Users/ryanholmes/.nuget/packages/",
+        "outputPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ryanholmes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\TickerService.Persistence.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence.Interfaces\\TickerService.Persistence.Interfaces.csproj"
+              "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/TickerService.Persistence.Interfaces.csproj": {
+                "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence.Interfaces/TickerService.Persistence.Interfaces.csproj"
               }
             }
           }
@@ -103,11 +100,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -124,36 +122,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ryanholmes/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.SQL.Migrations\\TickerService.SQL.Migrations.csproj": {
+    "/Users/ryanholmes/Documents/ticker-service/src/TickerService.SQL.Migrations/TickerService.SQL.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.SQL.Migrations\\TickerService.SQL.Migrations.csproj",
+        "projectUniqueName": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.SQL.Migrations/TickerService.SQL.Migrations.csproj",
         "projectName": "TickerService.SQL.Migrations",
-        "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.SQL.Migrations\\TickerService.SQL.Migrations.csproj",
-        "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.SQL.Migrations\\obj\\",
+        "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.SQL.Migrations/TickerService.SQL.Migrations.csproj",
+        "packagesPath": "/Users/ryanholmes/.nuget/packages/",
+        "outputPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.SQL.Migrations/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ryanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ryanholmes/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj": {
-                "projectPath": "C:\\Users\\ryanh\\Documents\\Projects\\TickerService\\src\\TickerService.Persistence\\TickerService.Persistence.csproj"
+              "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj": {
+                "projectPath": "/Users/ryanholmes/Documents/ticker-service/src/TickerService.Persistence/TickerService.Persistence.csproj"
               }
             }
           }
@@ -167,11 +163,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -188,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ryanholmes/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

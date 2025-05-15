@@ -19,22 +19,34 @@
       },
       "TickerService.Api.Clients/1.0.0": {
         "runtime": {
-          "TickerService.Api.Clients.dll": {}
+          "TickerService.Api.Clients.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TickerService.Events/1.0.0": {
         "runtime": {
-          "TickerService.Events.dll": {}
+          "TickerService.Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TickerService.ExternalApis/1.0.0": {
         "runtime": {
-          "TickerService.ExternalApis.dll": {}
+          "TickerService.ExternalApis.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TickerService.Persistence.Interfaces/1.0.0": {
         "runtime": {
-          "TickerService.Persistence.Interfaces.dll": {}
+          "TickerService.Persistence.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
