@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TickerService.Api.Clients\TickerService.Api.Clients.csproj" />
+    <ProjectReference Include="..\TickerService.Events\TickerService.Events.csproj" />
+    <ProjectReference Include="..\TickerService.ExternalApis\TickerService.ExternalApis.csproj" />
+    <ProjectReference Include="..\TickerService.Persistence.Interfaces\TickerService.Persistence.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

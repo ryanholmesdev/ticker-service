@@ -1,0 +1,11 @@
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\bin\Debug\net8.0\TickerService.ExternalApis.deps.json
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\bin\Debug\net8.0\TickerService.ExternalApis.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\bin\Debug\net8.0\TickerService.ExternalApis.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.AssemblyInfoInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.AssemblyInfo.cs
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.csproj.CoreCompileInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\refint\TickerService.ExternalApis.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\ref\TickerService.ExternalApis.dll

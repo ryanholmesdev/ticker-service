@@ -1,0 +1,11 @@
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\bin\Debug\net8.0\TickerService.Persistence.Interfaces.deps.json
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\bin\Debug\net8.0\TickerService.Persistence.Interfaces.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\bin\Debug\net8.0\TickerService.Persistence.Interfaces.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.AssemblyInfoInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.AssemblyInfo.cs
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\refint\TickerService.Persistence.Interfaces.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\TickerService.Persistence.Interfaces.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence.Interfaces\obj\Debug\net8.0\ref\TickerService.Persistence.Interfaces.dll

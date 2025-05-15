@@ -1,0 +1,15 @@
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\bin\Debug\net8.0\TickerService.Persistence.deps.json
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\bin\Debug\net8.0\TickerService.Persistence.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\bin\Debug\net8.0\TickerService.Persistence.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\bin\Debug\net8.0\TickerService.Persistence.Interfaces.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\bin\Debug\net8.0\TickerService.Persistence.Interfaces.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.csproj.AssemblyReference.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.AssemblyInfoInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.AssemblyInfo.cs
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerSe.258EFA1D.Up2Date
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\refint\TickerService.Persistence.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\TickerService.Persistence.pdb
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Persistence\obj\Debug\net8.0\ref\TickerService.Persistence.dll
