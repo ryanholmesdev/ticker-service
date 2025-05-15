@@ -9,7 +9,117 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65a9d4e-a0db-4d2e-ad25-3e331357f964" name="Changes" comment="" />
+    <list default="true" id="b65a9d4e-a0db-4d2e-ad25-3e331357f964" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TickerService.Api/Controllers/TickerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TickerService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TickerService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/Debug/net8.0/TickerService.Api.Clients.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/Debug/net8.0/TickerService.Api.Clients.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/Debug/net8.0/TickerService.Api.Clients.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/Debug/net8.0/TickerService.Api.Clients.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/TickerService.Api.Clients.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/TickerService.Api.Clients.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api.Clients/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.ExternalApis.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.ExternalApis.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/bin/Debug/net8.0/TickerService.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/TickerService.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/ref/TickerService.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/ref/TickerService.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/refint/TickerService.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/Debug/net8.0/refint/TickerService.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/TickerService.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/TickerService.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Application/obj/Debug/net8.0/TickerService.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Application/obj/Debug/net8.0/TickerService.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Application/obj/Debug/net8.0/TickerService.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Application/obj/Debug/net8.0/TickerService.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Application/obj/TickerService.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Application/obj/TickerService.Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/bin/Debug/net8.0/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/bin/Debug/net8.0/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/bin/Debug/net8.0/TickerService.ExternalApis.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/bin/Debug/net8.0/TickerService.ExternalApis.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/obj/Debug/net8.0/TickerService.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/obj/Debug/net8.0/TickerService.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/obj/Debug/net8.0/TickerService.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/obj/Debug/net8.0/TickerService.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/obj/TickerService.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/obj/TickerService.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Events/obj/Debug/net8.0/TickerService.Events.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Events/obj/Debug/net8.0/TickerService.Events.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Events/obj/Debug/net8.0/TickerService.Events.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Events/obj/Debug/net8.0/TickerService.Events.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Events/obj/TickerService.Events.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Events/obj/TickerService.Events.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Events/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Events/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Events/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Events/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/bin/Debug/net8.0/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/bin/Debug/net8.0/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/bin/Debug/net8.0/TickerService.ExternalApis.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/bin/Debug/net8.0/TickerService.ExternalApis.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/TickerService.ExternalApis.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/ref/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/ref/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/refint/TickerService.ExternalApis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/Debug/net8.0/refint/TickerService.ExternalApis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/TickerService.ExternalApis.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/TickerService.ExternalApis.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.ExternalApis/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/Debug/net8.0/TickerService.Persistence.Interfaces.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/Debug/net8.0/TickerService.Persistence.Interfaces.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/Debug/net8.0/TickerService.Persistence.Interfaces.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/Debug/net8.0/TickerService.Persistence.Interfaces.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/TickerService.Persistence.Interfaces.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/TickerService.Persistence.Interfaces.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence.Interfaces/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/bin/Debug/net8.0/TickerService.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/bin/Debug/net8.0/TickerService.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/bin/Debug/net8.0/TickerService.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/bin/Debug/net8.0/TickerService.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/TickerService.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/ref/TickerService.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/ref/TickerService.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/refint/TickerService.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/Debug/net8.0/refint/TickerService.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/TickerService.Persistence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/TickerService.Persistence.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.Persistence/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/Debug/net8.0/TickerService.SQL.Migrations.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/Debug/net8.0/TickerService.SQL.Migrations.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/Debug/net8.0/TickerService.SQL.Migrations.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/Debug/net8.0/TickerService.SQL.Migrations.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/TickerService.SQL.Migrations.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/TickerService.SQL.Migrations.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/TickerService.SQL.Migrations/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/Debug/net8.0/TickerService.Api.Clients.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/Debug/net8.0/TickerService.Api.Clients.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/Debug/net8.0/TickerService.Api.Clients.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/Debug/net8.0/TickerService.Api.Clients.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/TickerService.Api.Clients.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/TickerService.Api.Clients.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.Clients.UnitTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/Debug/net8.0/TickerService.Api.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/Debug/net8.0/TickerService.Api.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/Debug/net8.0/TickerService.Api.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/Debug/net8.0/TickerService.Api.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/TickerService.Api.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/TickerService.Api.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Api.UnitTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/Debug/net8.0/TickerService.ExternalApis.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/Debug/net8.0/TickerService.ExternalApis.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/Debug/net8.0/TickerService.ExternalApis.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/Debug/net8.0/TickerService.ExternalApis.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/TickerService.ExternalApis.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/TickerService.ExternalApis.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ExternalApis.UnitTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/Debug/net8.0/TickerService.Persistence.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/Debug/net8.0/TickerService.Persistence.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/Debug/net8.0/TickerService.Persistence.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/Debug/net8.0/TickerService.Persistence.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/TickerService.Persistence.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/TickerService.Persistence.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.Persistence.UnitTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/Debug/net8.0/TickerService.ServiceTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/Debug/net8.0/TickerService.ServiceTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/Debug/net8.0/TickerService.ServiceTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/Debug/net8.0/TickerService.ServiceTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/TickerService.ServiceTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/TickerService.ServiceTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.ServiceTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/Debug/net8.0/TickerService.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/Debug/net8.0/TickerService.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/Debug/net8.0/TickerService.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/Debug/net8.0/TickerService.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/TickerService.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/TickerService.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TickerService.UnitTests/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +128,17 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2x8cCZIovaFgi5GYZgwN8FFmmas" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +148,8 @@
     ".NET Launch Settings Profile.TickerService.Api: http.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -95,7 +213,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747323013957</updated>
-      <workItem from="1747323015252" duration="2230000" />
+      <workItem from="1747323015252" duration="2588000" />
+      <workItem from="1747325706802" duration="148000" />
     </task>
     <servers />
   </component>

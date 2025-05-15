@@ -43,3 +43,4 @@ C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Api\obj\Debug\
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Api\obj\Debug\net8.0\TickerService.Api.pdb
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Api\obj\Debug\net8.0\TickerService.Api.genruntimeconfig.cache
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Api\obj\Debug\net8.0\ref\TickerService.Api.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.Api\obj\Debug\net8.0\TickerService.Api.sourcelink.json

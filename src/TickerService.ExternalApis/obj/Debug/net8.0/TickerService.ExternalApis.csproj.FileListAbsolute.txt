@@ -9,3 +9,4 @@ C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\o
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\refint\TickerService.ExternalApis.dll
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.pdb
 C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\ref\TickerService.ExternalApis.dll
+C:\Users\ryanh\Documents\Projects\TickerService\src\TickerService.ExternalApis\obj\Debug\net8.0\TickerService.ExternalApis.sourcelink.json
